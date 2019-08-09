@@ -1,6 +1,6 @@
 class Post
   attr_accessor :title, :author
-  
+=begin  
   def title=(title)
     @title = title
   end
@@ -12,5 +12,5 @@ class Post
   def author
     @author
   end
-  
+=end  
 end
