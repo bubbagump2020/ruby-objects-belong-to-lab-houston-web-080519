@@ -1,7 +1,7 @@
 class Post
   attr_accessor :name
   
-  def name=(name)
+  def title=(name)
     @name = name
   end
 end
